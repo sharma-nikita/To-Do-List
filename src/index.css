@@ -1,0 +1,9 @@
+.mydiv{
+    margin: 0px;
+    padding: 1px;
+    width: 60%;
+    height: 60%;
+    background-color: aquamarine;
+    border-radius: 2px solid grey;
+
+}
